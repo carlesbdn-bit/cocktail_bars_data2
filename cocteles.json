@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Coctelería Ejemplo 1",
+        "address": "Carrer de l'Example 123",
+        "lat": 41.3851,
+        "lng": 2.1734
+    },
+    {
+        "name": "Coctelería Ejemplo 2",
+        "address": "Via Falsa 123",
+        "lat": 41.3811,
+        "lng": 2.1760
+    }
+] 
