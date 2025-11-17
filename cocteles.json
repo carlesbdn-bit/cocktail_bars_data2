@@ -1,14 +1,122 @@
 [
-    {
-        "name": "Coctelería Ejemplo 1",
-        "address": "Carrer de l'Example 123",
-        "lat": 41.3851,
-        "lng": 2.1734
-    },
-    {
-        "name": "Coctelería Ejemplo 2",
-        "address": "Via Falsa 123",
-        "lat": 41.3811,
-        "lng": 2.1760
-    }
+  {
+    "name": "Dr Stravinsky",
+    "dirección": "Carrer dels Mirallers 5",
+    "lat": 41.383932,
+    "lng": 2.182356
+  },
+  {
+    "name": "Paradiso",
+    "dirección": "Carrer de Rera Palau 4",
+    "lat": 41.383577,
+    "lng": 2.182943
+  },
+  {
+    "name": "Two Schmucks",
+    "dirección": "Carrer de Joaquín Costa 52",
+    "lat": 41.383070,
+    "lng": 2.165030
+  },
+  {
+    "name": "Old Fashioned",
+    "dirección": "Carrer de Santa Teresa 1",
+    "lat": 41.398112,
+    "lng": 2.158463
+  },
+  {
+    "name": "Solange Cocktails & Luxury Spirits",
+    "dirección": "Carrer d’Aribau 143",
+    "lat": 41.390505,
+    "lng": 2.155008
+  },
+  {
+    "name": "Tandem Cocktail Bar",
+    "dirección": "Carrer d’Aribau 86",
+    "lat": 41.386521,
+    "lng": 2.157835
+  },
+  {
+    "name": "Negroni Cocktail Bar",
+    "dirección": "Carrer del Joaquin Costa 46",
+    "lat": 41.383412,
+    "lng": 2.165937
+  },
+  {
+    "name": "Boadas Cocktails",
+    "dirección": "Carrer dels Tallers 1",
+    "lat": 41.385685,
+    "lng": 2.170707
+  },
+  {
+    "name": "El Nacional – Cocktail Bar",
+    "dirección": "Passeig de Gràcia 24",
+    "lat": 41.389733,
+    "lng": 2.167375
+  },
+  {
+    "name": "Dux Gin & Cocktails",
+    "dirección": "Carrer de la Diputació 304",
+    "lat": 41.390373,
+    "lng": 2.162925
+  },
+  {
+    "name": "Mutis",
+    "dirección": "Carrer Pau Claris 192",
+    "lat": 41.396452,
+    "lng": 2.160205
+  },
+  {
+    "name": "Ideal Cocktail Bar",
+    "dirección": "Carrer de Aribau 89",
+    "lat": 41.387105,
+    "lng": 2.157562
+  },
+  {
+    "name": "Sips",
+    "dirección": "Carrer de Muntaner 108",
+    "lat": 41.386910,
+    "lng": 2.159250
+  },
+  {
+    "name": "Mariposa Negra",
+    "dirección": "Carrer dels Escudellers 27",
+    "lat": 41.380610,
+    "lng": 2.176775
+  },
+  {
+    "name": "The Alchemix",
+    "dirección": "Carrer de València 212",
+    "lat": 41.390761,
+    "lng": 2.162981
+  },
+  {
+    "name": "Bitter Cocktail Bar",
+    "dirección": "Carrer del Parlament 22",
+    "lat": 41.375897,
+    "lng": 2.163731
+  },
+  {
+    "name": "Especiarium",
+    "dirección": "Carrer de la Princesa 20",
+    "lat": 41.385145,
+    "lng": 2.181070
+  },
+  {
+    "name": "D9 Bar",
+    "dirección": "Carrer de les Guilleries 10",
+    "lat": 41.402570,
+    "lng": 2.153940
+  },
+  {
+    "name": "Collage Art & Cocktail",
+    "dirección": "Carrer dels Consellers 4",
+    "lat": 41.383997,
+    "lng": 2.180770
+  },
+  {
+    "name": "El Copetín",
+    "dirección": "Carrer de la Marina 19",
+    "lat": 41.395840,
+    "lng": 2.188650
+  }
 ] 
