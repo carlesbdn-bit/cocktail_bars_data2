@@ -1,122 +1,362 @@
 [
-  {
-    "name": "Dr Stravinsky",
+{
+    "nombre": "Dr. Stravinsky",
     "dirección": "Carrer dels Mirallers 5",
     "lat": 41.383932,
     "lng": 2.182356
   },
   {
-    "name": "Paradiso",
+    "nombre": "Paradiso",
     "dirección": "Carrer de Rera Palau 4",
     "lat": 41.383577,
     "lng": 2.182943
   },
   {
-    "name": "Two Schmucks",
+    "nombre": "Dos Idiotas",
     "dirección": "Carrer de Joaquín Costa 52",
-    "lat": 41.383070,
-    "lng": 2.165030
+    "lat": 41.383870,
+    "lng": 2.165380
   },
   {
-    "name": "Old Fashioned",
+    "nombre": "Antigua Compañía de las Indias",
     "dirección": "Carrer de Santa Teresa 1",
-    "lat": 41.398112,
-    "lng": 2.158463
+    "lat": 41.401812,
+    "lng": 2.157645
   },
   {
-    "name": "Solange Cocktails & Luxury Spirits",
-    "dirección": "Carrer d’Aribau 143",
-    "lat": 41.390505,
-    "lng": 2.155008
+    "nombre": "Cocteles Soinge",
+    "dirección": "Carrer d'Aribau 143",
+    "lat": 41.395095,
+    "lng": 2.155808
   },
   {
-    "name": "Tandem Cocktail Bar",
-    "dirección": "Carrer d’Aribau 86",
-    "lat": 41.386521,
-    "lng": 2.157835
+    "nombre": "Tandem Cocktail Bar",
+    "dirección": "Carrer d'Aribau 86",
+    "lat": 41.388620,
+    "lng": 2.159540
   },
   {
-    "name": "Negroni Cocktail Bar",
-    "dirección": "Carrer del Joaquin Costa 46",
-    "lat": 41.383412,
-    "lng": 2.165937
-  },
-  {
-    "name": "Boadas Cocktails",
+    "nombre": "Boadas Cocktails",
     "dirección": "Carrer dels Tallers 1",
-    "lat": 41.385685,
-    "lng": 2.170707
+    "lat": 41.385501,
+    "lng": 2.169636
   },
   {
-    "name": "El Nacional – Cocktail Bar",
-    "dirección": "Passeig de Gràcia 24",
-    "lat": 41.389733,
-    "lng": 2.167375
+    "nombre": "Solange Cocktails & Luxury Spirits",
+    "dirección": "Carrer de Mallorca 188",
+    "lat": 41.392603,
+    "lng": 2.159841
   },
   {
-    "name": "Dux Gin & Cocktails",
-    "dirección": "Carrer de la Diputació 304",
-    "lat": 41.390373,
-    "lng": 2.162925
+    "nombre": "Hotel Omm - Dry Martini Bar",
+    "dirección": "Carrer d'Aribau 162",
+    "lat": 41.396281,
+    "lng": 2.155141
   },
   {
-    "name": "Mutis",
-    "dirección": "Carrer Pau Claris 192",
-    "lat": 41.396452,
-    "lng": 2.160205
+    "nombre": "Dry Martini",
+    "dirección": "Carrer d'Aribau 162-166",
+    "lat": 41.396292,
+    "lng": 2.155207
+  } 
+{
+    "nombre": "El Paraigua",
+    "dirección": "Carrer del Pas de l'Ensenyança 2",
+    "lat": 41.382920,
+    "lng": 2.176370
   },
   {
-    "name": "Ideal Cocktail Bar",
-    "dirección": "Carrer de Aribau 89",
-    "lat": 41.387105,
-    "lng": 2.157562
+    "nombre": "Negroni Cocktail Bar",
+    "dirección": "Carrer de Joaquín Costa 46",
+    "lat": 41.383580,
+    "lng": 2.165940
   },
   {
-    "name": "Sips",
-    "dirección": "Carrer de Muntaner 108",
-    "lat": 41.386910,
-    "lng": 2.159250
+    "nombre": "Milano Cocktail Bar",
+    "dirección": "Ronda Universitat 35",
+    "lat": 41.385180,
+    "lng": 2.165180
   },
   {
-    "name": "Mariposa Negra",
-    "dirección": "Carrer dels Escudellers 27",
-    "lat": 41.380610,
-    "lng": 2.176775
+    "nombre": "Casa Almirall",
+    "dirección": "Carrer de Joaquín Costa 33",
+    "lat": 41.383760,
+    "lng": 2.166280
   },
   {
-    "name": "The Alchemix",
-    "dirección": "Carrer de València 212",
-    "lat": 41.390761,
-    "lng": 2.162981
+    "nombre": "Ocaña",
+    "dirección": "Plaça Reial 13-15",
+    "lat": 41.379890,
+    "lng": 2.175560
   },
   {
-    "name": "Bitter Cocktail Bar",
-    "dirección": "Carrer del Parlament 22",
-    "lat": 41.375897,
-    "lng": 2.163731
+    "nombre": "Mariposa Negra",
+    "dirección": "Carrer dels Mirallers 9",
+    "lat": 41.383770,
+    "lng": 2.182480
   },
   {
-    "name": "Especiarium",
-    "dirección": "Carrer de la Princesa 20",
-    "lat": 41.385145,
-    "lng": 2.181070
+    "nombre": "Especiarium Bar",
+    "dirección": "Carrer de la Princesa 29",
+    "lat": 41.385110,
+    "lng": 2.182750
   },
   {
-    "name": "D9 Bar",
-    "dirección": "Carrer de les Guilleries 10",
-    "lat": 41.402570,
-    "lng": 2.153940
+    "nombre": "La Whiskeria",
+    "dirección": "Carrer de Casanova 52",
+    "lat": 41.386980,
+    "lng": 2.158200
   },
   {
-    "name": "Collage Art & Cocktail",
+    "nombre": "Hemingway Gin & Cocktail Bar",
+    "dirección": "Carrer de Muntaner 114",
+    "lat": 41.393200,
+    "lng": 2.155900
+  },
+  {
+    "nombre": "Collage Art & Cocktail Social Club",
     "dirección": "Carrer dels Consellers 4",
-    "lat": 41.383997,
-    "lng": 2.180770
+    "lat": 41.383220,
+    "lng": 2.181950
+  } 
+{
+    "nombre": "Bobby’s Free",
+    "dirección": "Carrer de Pau Claris 85",
+    "lat": 41.389140,
+    "lng": 2.170580
   },
   {
-    "name": "El Copetín",
-    "dirección": "Carrer de la Marina 19",
-    "lat": 41.395840,
-    "lng": 2.188650
+    "nombre": "The Alchemix",
+    "dirección": "Carrer de València 212",
+    "lat": 41.391990,
+    "lng": 2.159970
+  },
+  {
+    "nombre": "The Mint",
+    "dirección": "Passeig d’Isabel II 4",
+    "lat": 41.380780,
+    "lng": 2.183260
+  },
+  {
+    "nombre": "Xixbar",
+    "dirección": "Carrer de Rocafort 19",
+    "lat": 41.376890,
+    "lng": 2.156510
+  },
+  {
+    "nombre": "Ideal Cocktail Bar",
+    "dirección": "Carrer d’Aribau 89",
+    "lat": 41.389010,
+    "lng": 2.157220
+  },
+  {
+    "nombre": "Boadas Cocktails",
+    "dirección": "Carrer dels Tallers 1",
+    "lat": 41.385510,
+    "lng": 2.170920
+  },
+  {
+    "nombre": "Solange Cocktails & Luxury Spirits",
+    "dirección": "Carrer de Muntaner 143",
+    "lat": 41.392880,
+    "lng": 2.155370
+  },
+  {
+    "nombre": "Dux Gin & Cocktail Bar",
+    "dirección": "Carrer de la Diputació 269",
+    "lat": 41.389540,
+    "lng": 2.162920
+  },
+  {
+    "nombre": "Ultramarinos",
+    "dirección": "La Rambla 31",
+    "lat": 41.378710,
+    "lng": 2.176340
+  },
+  {
+    "nombre": "Rubi Bar",
+    "dirección": "Carrer dels Banys Vells 6",
+    "lat": 41.383830,
+    "lng": 2.183660
+  } 
+{
+    "nombre": "Bloody Mary Cocktail Lounge",
+    "dirección": "Carrer de Ferran 7",
+    "lat": 41.380850,
+    "lng": 2.176810
+  },
+  {
+    "nombre": "The Lime House",
+    "dirección": "Carrer del Carders 31",
+    "lat": 41.386070,
+    "lng": 2.181300
+  },
+  {
+    "nombre": "CactusBar",
+    "dirección": "Carrer dels Carders 36",
+    "lat": 41.386200,
+    "lng": 2.181780
+  },
+  {
+    "nombre": "Creps al Born - Cocktail Bar",
+    "dirección": "Passeig del Born 12",
+    "lat": 41.385304,
+    "lng": 2.182797
+  },
+  {
+    "nombre": "Clubhaus",
+    "dirección": "Carrer d'Àvila 35",
+    "lat": 41.399000,
+    "lng": 2.190900
+  },
+  {
+    "nombre": "El Portalón Cocktail Bar",
+    "dirección": "Carrer de Banys Vells 20",
+    "lat": 41.383520,
+    "lng": 2.182990
+  },
+  {
+    "nombre": "La Higuera Cocktail Place",
+    "dirección": "Carrer del Comerç 15",
+    "lat": 41.385150,
+    "lng": 2.183680
+  },
+  {
+    "nombre": "The Sunglasses Bar",
+    "dirección": "Carrer Nou de Zurbano 3",
+    "lat": 41.377260,
+    "lng": 2.177580
+  },
+  {
+    "nombre": "Esbarjo Cocktail Bar",
+    "dirección": "Carrer de Sant Pere Més Alt 55",
+    "lat": 41.389800,
+    "lng": 2.177790
+  },
+  {
+    "nombre": "Bar Sauvage",
+    "dirección": "Carrer de Casp 119",
+    "lat": 41.392540,
+    "lng": 2.170530
   }
-] 
+{
+    "nombre": "Skyfall Cocktail Club",
+    "dirección": "Carrer de Casanova 191",
+    "lat": 41.393850,
+    "lng": 2.155910
+  },
+  {
+    "nombre": "Moonlight Gin & Cocktails",
+    "dirección": "Carrer de Lepant 250",
+    "lat": 41.404020,
+    "lng": 2.174830
+  },
+  {
+    "nombre": "Bar Sauvage El Born",
+    "dirección": "Carrer de la Princesa 22",
+    "lat": 41.385200,
+    "lng": 2.181450
+  },
+  {
+    "nombre": "Bitter Cocktail Bar",
+    "dirección": "Carrer del Parlament 22",
+    "lat": 41.375930,
+    "lng": 2.163750
+  },
+  {
+    "nombre": "La Confitería",
+    "dirección": "Carrer de Sant Pau 128",
+    "lat": 41.374020,
+    "lng": 2.168020
+  },
+  {
+    "nombre": "Rita Blue",
+    "dirección": "Plaça Sant Agustí 3",
+    "lat": 41.378930,
+    "lng": 2.168520
+  },
+  {
+    "nombre": "The George Payne",
+    "dirección": "Plaça d'Urquinaona 5",
+    "lat": 41.389760,
+    "lng": 2.172140
+  },
+  {
+    "nombre": "Slow Cocktail Bar",
+    "dirección": "Carrer de París 186",
+    "lat": 41.394330,
+    "lng": 2.150380
+  },
+  {
+    "nombre": "Verne Barcelona",
+    "dirección": "Carrer d'Aribau 150",
+    "lat": 41.393610,
+    "lng": 2.154450
+  },
+  {
+    "nombre": "El Rabipelao",
+    "dirección": "Carrer de la Princesa 37",
+    "lat": 41.385940,
+    "lng": 2.181980
+  } 
+{
+    "nombre": "The Black Rose",
+    "dirección": "Carrer de Ferlandina 27",
+    "lat": 41.382310,
+    "lng": 2.167450
+  },
+  {
+    "nombre": "Bar Xulita",
+    "dirección": "Carrer de l'Allada-Vermell 6",
+    "lat": 41.385560,
+    "lng": 2.182100
+  },
+  {
+    "nombre": "The Eldorado",
+    "dirección": "Carrer del Rec 67",
+    "lat": 41.385420,
+    "lng": 2.183540
+  },
+  {
+    "nombre": "Bar Calders",
+    "dirección": "Carrer del Parlament 25",
+    "lat": 41.376140,
+    "lng": 2.164010
+  },
+  {
+    "nombre": "Django Bar",
+    "dirección": "Carrer de la Palma de Sant Just 9",
+    "lat": 41.382450,
+    "lng": 2.176890
+  },
+  {
+    "nombre": "La Mascarada",
+    "dirección": "Carrer Ample 24",
+    "lat": 41.378720,
+    "lng": 2.178430
+  },
+  {
+    "nombre": "Bonita Bar",
+    "dirección": "Passeig del Born 27",
+    "lat": 41.385630,
+    "lng": 2.182340
+  },
+  {
+    "nombre": "The Wild Rover",
+    "dirección": "Carrer de Santa Mònica 2",
+    "lat": 41.376820,
+    "lng": 2.177900
+  },
+  {
+    "nombre": "Mr White Cocktail Bar",
+    "dirección": "Carrer de Muntaner 100",
+    "lat": 41.387320,
+    "lng": 2.158530
+  },
+  {
+    "nombre": "Zahara Cocktail Club",
+    "dirección": "Carrer de la Diputació 77",
+    "lat": 41.385940,
+    "lng": 2.158600
+  } 
+]
