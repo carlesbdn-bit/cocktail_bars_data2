@@ -1,362 +1,842 @@
 [
-{
-    "name": "Dr. Stravinsky",
-    "address": "Carrer dels Mirallers 5",
-    "lat": 41.383932,
-    "lng": 2.182356
-  },
   {
-    "name": "Paradiso",
-    "address": "Carrer de Rera Palau 4",
-    "lat": 41.383577,
-    "lng": 2.182943
-  },
-  {
-    "name": "Dos Idiotas",
-    "address": "Carrer de Joaquín Costa 52",
-    "lat": 41.383870,
-    "lng": 2.165380
-  },
-  {
-    "name": "Antigua Compañía de las Indias",
-    "address": "Carrer de Santa Teresa 1",
-    "lat": 41.401812,
-    "lng": 2.157645
-  },
-  {
-    "name": "Cocteles Soinge",
-    "address": "Carrer d'Aribau 143",
-    "lat": 41.395095,
-    "lng": 2.155808
-  },
-  {
-    "name": "Tandem Cocktail Bar",
-    "address": "Carrer d'Aribau 86",
-    "lat": 41.388620,
-    "lng": 2.159540
+    "name": "Bitter Cocktail Bar",
+    "address": "Carrer Viladomat 17, Barcelona",
+    "lat": 41.37591,
+    "lng": 2.16220,
+    "phone": "935327199",
+    "website": "https://bitter-bar.com/",
+    "instagram": "https://www.instagram.com/bitter_bcn/",
+    "hours": "19:00–02:30"
   },
   {
     "name": "Boadas Cocktails",
-    "address": "Carrer dels Tallers 1",
+    "address": "Carrer dels Tallers 1, Barcelona",
     "lat": 41.385501,
-    "lng": 2.169636
+    "lng": 2.169636,
+    "phone": "933189592",
+    "website": null,
+    "instagram": null,
+    "hours": "17:00–01:30"
   },
   {
-    "name": "Solange Cocktails & Luxury Spirits",
-    "address": "Carrer de Mallorca 188",
-    "lat": 41.392603,
-    "lng": 2.159841
-  },
-  {
-    "name": "Hotel Omm - Dry Martini Bar",
-    "address": "Carrer d'Aribau 162",
-    "lat": 41.396281,
-    "lng": 2.155141
-  },
-  {
-    "name": "Dry Martini",
-    "address": "Carrer d'Aribau 162-166",
-    "lat": 41.396292,
-    "lng": 2.155207
-  }, 
-{
-    "name": "El Paraigua",
-    "address": "Carrer del Pas de l'Ensenyança 2",
-    "lat": 41.382920,
-    "lng": 2.176370
-  },
-  {
-    "name": "Negroni Cocktail Bar",
-    "address": "Carrer de Joaquín Costa 46",
-    "lat": 41.383580,
-    "lng": 2.165940
-  },
-  {
-    "name": "Milano Cocktail Bar",
-    "address": "Ronda Universitat 35",
-    "lat": 41.385180,
-    "lng": 2.165180
+    "name": "Bobby's Free",
+    "address": "Carrer de Pau Claris 85, Barcelona",
+    "lat": 41.38914,
+    "lng": 2.17058,
+    "phone": "932779773",
+    "website": "https://www.bobbysfree.com/es/",
+    "instagram": "https://www.instagram.com/bobbysfree/",
+    "hours": "19:00–03:00"
   },
   {
     "name": "Casa Almirall",
-    "address": "Carrer de Joaquín Costa 33",
-    "lat": 41.383760,
-    "lng": 2.166280
-  },
-  {
-    "name": "Ocaña",
-    "address": "Plaça Reial 13-15",
-    "lat": 41.379890,
-    "lng": 2.175560
-  },
-  {
-    "name": "Mariposa Negra",
-    "address": "Carrer dels Mirallers 9",
-    "lat": 41.383770,
-    "lng": 2.182480
-  },
-  {
-    "name": "Especiarium Bar",
-    "address": "Carrer de la Princesa 29",
-    "lat": 41.385110,
-    "lng": 2.182750
-  },
-  {
-    "name": "La Whiskeria",
-    "address": "Carrer de Casanova 52",
-    "lat": 41.386980,
-    "lng": 2.158200
-  },
-  {
-    "name": "Hemingway Gin & Cocktail Bar",
-    "address": "Carrer de Muntaner 114",
-    "lat": 41.393200,
-    "lng": 2.155900
+    "address": "Carrer de Joaquín Costa 33, Barcelona",
+    "lat": 41.38376,
+    "lng": 2.16628,
+    "phone": "933189917",
+    "website": "https://casa-almirall.com/",
+    "instagram": "https://www.instagram.com/casaalmirall/",
+    "hours": "20:00–03:00"
   },
   {
     "name": "Collage Art & Cocktail Social Club",
-    "address": "Carrer dels Consellers 4",
-    "lat": 41.383220,
-    "lng": 2.181950
-  }, 
-{
-    "name": "Bobby’s Free",
-    "address": "Carrer de Pau Claris 85",
-    "lat": 41.389140,
-    "lng": 2.170580
+    "address": "Carrer dels Consellers 4, Barcelona",
+    "lat": 41.38322,
+    "lng": 2.18195,
+    "phone": "935387310",
+    "website": null,
+    "instagram": "https://www.instagram.com/collagecocktailbar/",
+    "hours": "19:00–02:00"
   },
   {
-    "name": "The Alchemix",
-    "address": "Carrer de València 212",
-    "lat": 41.391990,
-    "lng": 2.159970
+    "name": "Dr. Stravinsky",
+    "address": "Carrer dels Mirallers 5, Barcelona",
+    "lat": 41.383932,
+    "lng": 2.182356,
+    "phone": "931571233",
+    "website": "https://drstravinsky.cat/en/",
+    "instagram": "https://www.instagram.com/dr.stravinsky_bcn/?hl=es",
+    "hours": "19:00–02:30"
   },
   {
-    "name": "The Mint",
-    "address": "Passeig d’Isabel II 4",
-    "lat": 41.380780,
-    "lng": 2.183260
-  },
-  {
-    "name": "Xixbar",
-    "address": "Carrer de Rocafort 19",
-    "lat": 41.376890,
-    "lng": 2.156510
-  },
-  {
-    "name": "Ideal Cocktail Bar",
-    "address": "Carrer d’Aribau 89",
-    "lat": 41.389010,
-    "lng": 2.157220
-  },
-  {
-    "name": "Boadas Cocktails",
-    "address": "Carrer dels Tallers 1",
-    "lat": 41.385510,
-    "lng": 2.170920
-  },
-  {
-    "name": "Solange Cocktails & Luxury Spirits",
-    "address": "Carrer de Muntaner 143",
-    "lat": 41.392880,
-    "lng": 2.155370
-  },
-  {
-    "name": "Dux Gin & Cocktail Bar",
-    "address": "Carrer de la Diputació 269",
-    "lat": 41.389540,
-    "lng": 2.162920
-  },
-  {
-    "name": "Ultramarinos",
-    "address": "La Rambla 31",
-    "lat": 41.378710,
-    "lng": 2.176340
-  },
-  {
-    "name": "Rubi Bar",
-    "address": "Carrer dels Banys Vells 6",
-    "lat": 41.383830,
-    "lng": 2.183660
-  }, 
-{
-    "name": "Bloody Mary Cocktail Lounge",
-    "address": "Carrer de Ferran 7",
-    "lat": 41.380850,
-    "lng": 2.176810
-  },
-  {
-    "name": "The Lime House",
-    "address": "Carrer del Carders 31",
-    "lat": 41.386070,
-    "lng": 2.181300
-  },
-  {
-    "name": "CactusBar",
-    "address": "Carrer dels Carders 36",
-    "lat": 41.386200,
-    "lng": 2.181780
-  },
-  {
-    "name": "Creps al Born - Cocktail Bar",
-    "address": "Passeig del Born 12",
-    "lat": 41.385304,
-    "lng": 2.182797
-  },
-  {
-    "name": "Clubhaus",
-    "address": "Carrer d'Àvila 35",
-    "lat": 41.399000,
-    "lng": 2.190900
-  },
-  {
-    "name": "El Portalón Cocktail Bar",
-    "address": "Carrer de Banys Vells 20",
-    "lat": 41.383520,
-    "lng": 2.182990
-  },
-  {
-    "name": "La Higuera Cocktail Place",
-    "address": "Carrer del Comerç 15",
-    "lat": 41.385150,
-    "lng": 2.183680
-  },
-  {
-    "name": "The Sunglasses Bar",
-    "address": "Carrer Nou de Zurbano 3",
-    "lat": 41.377260,
-    "lng": 2.177580
-  },
-  {
-    "name": "Esbarjo Cocktail Bar",
-    "address": "Carrer de Sant Pere Més Alt 55",
-    "lat": 41.389800,
-    "lng": 2.177790
-  },
-  {
-    "name": "Bar Sauvage",
-    "address": "Carrer de Casp 119",
-    "lat": 41.392540,
-    "lng": 2.170530
-  },
-{
-    "name": "Skyfall Cocktail Club",
-    "address": "Carrer de Casanova 191",
-    "lat": 41.393850,
-    "lng": 2.155910
-  },
-  {
-    "name": "Moonlight Gin & Cocktails",
-    "address": "Carrer de Lepant 250",
-    "lat": 41.404020,
-    "lng": 2.174830
-  },
-  {
-    "name": "Bar Sauvage El Born",
-    "address": "Carrer de la Princesa 22",
-    "lat": 41.385200,
-    "lng": 2.181450
-  },
-  {
-    "name": "Bitter Cocktail Bar",
-    "address": "Carrer del Parlament 22",
-    "lat": 41.375930,
-    "lng": 2.163750
-  },
-  {
-    "name": "La Confitería",
-    "address": "Carrer de Sant Pau 128",
-    "lat": 41.374020,
-    "lng": 2.168020
-  },
-  {
-    "name": "Rita Blue",
-    "address": "Plaça Sant Agustí 3",
-    "lat": 41.378930,
-    "lng": 2.168520
-  },
-  {
-    "name": "The George Payne",
-    "address": "Plaça d'Urquinaona 5",
-    "lat": 41.389760,
-    "lng": 2.172140
-  },
-  {
-    "name": "Slow Cocktail Bar",
-    "address": "Carrer de París 186",
-    "lat": 41.394330,
-    "lng": 2.150380
-  },
-  {
-    "name": "Verne Barcelona",
-    "address": "Carrer d'Aribau 150",
-    "lat": 41.393610,
-    "lng": 2.154450
+    "name": "Dry Martini",
+    "address": "Carrer d'Aribau 162-166, Barcelona",
+    "lat": 41.396292,
+    "lng": 2.155207,
+    "phone": "932175072",
+    "website": "https://www.drymartinibarcelona.com/cat/inicio/",
+    "instagram": "https://www.instagram.com/drymartinibarcelona/",
+    "hours": "13:00–02:30"
   },
   {
     "name": "El Rabipelao",
-    "address": "Carrer de la Princesa 37",
-    "lat": 41.385940,
-    "lng": 2.181980
-  }, 
-{
-    "name": "The Black Rose",
-    "address": "Carrer de Ferlandina 27",
-    "lat": 41.382310,
-    "lng": 2.167450
+    "address": "Carrer Torrent D'en Vidalet 22, Barcelona",
+    "lat": 41.40389,
+    "lng": 2.15978,
+    "phone": "931825035",
+    "website": "https://www.elrabipelao.com/",
+    "instagram": "https://www.instagram.com/elrabipelao/",
+    "hours": "19:00–02:00"
   },
   {
-    "name": "Bar Xulita",
-    "address": "Carrer de l'Allada-Vermell 6",
-    "lat": 41.385560,
-    "lng": 2.182100
+    "name": "Especiarium Bar",
+    "address": "Carrer de la Princesa 29, Barcelona",
+    "lat": 41.38572,
+    "lng": 2.18076,
+    "phone": "934318899",
+    "website": "https://especiarium.becreative.guru/home.php?lang=es",
+    "instagram": "https://www.instagram.com/especiariumbar/",
+    "hours": "19:00–02:00"
   },
   {
-    "name": "The Eldorado",
-    "address": "Carrer del Rec 67",
-    "lat": 41.385420,
-    "lng": 2.183540
+    "name": "Hemingway Gin & Cocktail Bar",
+    "address": "Carrer de Muntaner 114, Barcelona",
+    "lat": 41.3932,
+    "lng": 2.1559,
+    "phone": "931296793",
+    "website": "https://hemingwaybarcelona.com/",
+    "instagram": "https://www.instagram.com/hemingwaycocktailbar/",
+    "hours": "17:00–03:00"
   },
   {
-    "name": "Bar Calders",
-    "address": "Carrer del Parlament 25",
-    "lat": 41.376140,
-    "lng": 2.164010
+    "name": "Ideal Cocktail Bar",
+    "address": "Carrer d'Aribau 89, Barcelona",
+    "lat": 41.38901,
+    "lng": 2.15722,
+    "phone": "934531028",
+    "website": null,
+    "instagram": "https://www.instagram.com/idealcocktailbar/",
+    "hours": "12:00–02:30"
   },
   {
-    "name": "Django Bar",
-    "address": "Carrer de la Palma de Sant Just 9",
-    "lat": 41.382450,
-    "lng": 2.176890
+    "name": "La Confitería",
+    "address": "Carrer de Sant Pau 128, Barcelona",
+    "lat": 41.37402,
+    "lng": 2.16802,
+    "phone": "931405435",
+    "website": null,
+    "instagram": null,
+    "hours": "18:00–03:00"
   },
   {
-    "name": "La Mascarada",
-    "address": "Carrer Ample 24",
-    "lat": 41.378720,
-    "lng": 2.178430
+    "name": "La Whiskeria",
+    "address": "Carrer Casp 39, Barcelona",
+    "lat": 41.39194,
+    "lng": 2.17364,
+    "phone": null,
+    "website": "https://lawhiskeria.es/",
+    "instagram": "https://www.instagram.com/lawhiskeriabcn/?hl=en",
+    "hours": "17:00–02:30"
   },
   {
-    "name": "Bonita Bar",
-    "address": "Passeig del Born 27",
-    "lat": 41.385630,
-    "lng": 2.182340
+    "name": "Mariposa Negra",
+    "address": "Plaça de les Olles 4, Barcelona",
+    "lat": 41.38397,
+    "lng": 2.18318,
+    "phone": "615932796",
+    "website": "https://mariposanegrabar.com/",
+    "instagram": "https://www.instagram.com/mariposa_negra_bar/",
+    "hours": "12:00–03:00"
   },
   {
-    "name": "The Wild Rover",
-    "address": "Carrer de Santa Mònica 2",
-    "lat": 41.376820,
-    "lng": 2.177900
+    "name": "Milans Cocktail Bar",
+    "address": "Milans 7, Barcelona",
+    "lat": 41.38088,
+    "lng": 2.17909,
+    "phone": "932689392",
+    "website": null,
+    "instagram": null,
+    "hours": "18:30–03:00"
+  },
+  {
+    "name": "Negroni Cocktail Bar",
+    "address": "Carrer de Joaquín Costa 46, Barcelona",
+    "lat": 41.38358,
+    "lng": 2.16594,
+    "phone": "619429271",
+    "website": null,
+    "instagram": null,
+    "hours": "19:00–02:30"
+  },
+  {
+    "name": "Ocaña",
+    "address": "Plaça Reial 13-15, Barcelona",
+    "lat": 41.37989,
+    "lng": 2.17556,
+    "phone": "936764814",
+    "website": "https://www.ocana.cat/",
+    "instagram": "https://www.instagram.com/ocanabcn/",
+    "hours": "09:00–03:00"
+  },
+  {
+    "name": "Paradiso",
+    "address": "Carrer de Rera Palau 4, Barcelona",
+    "lat": 41.383577,
+    "lng": 2.182943,
+    "phone": "933607222",
+    "website": "https://paradiso.cat/",
+    "instagram": "https://www.instagram.com/paradiso_barcelona/",
+    "hours": "18:00–12:00"
+  },
+  {
+    "name": "Rita Blue",
+    "address": "Plaça Sant Agustí 3, Barcelona",
+    "lat": 41.37893,
+    "lng": 2.16852,
+    "phone": "933424086",
+    "website": null,
+    "instagram": null,
+    "hours": "11:00–03:00"
+  },
+  {
+    "name": "Slow Cocktail Bar",
+    "address": "Carrer de París 186, Barcelona",
+    "lat": 41.39433,
+    "lng": 2.15038,
+    "phone": "933681455",
+    "website": "https://www.slowbarcelona.es/",
+    "instagram": null,
+    "hours": "19:00–06:00"
+  },
+  {
+    "name": "Solange Cocktails & Luxury Spirits",
+    "address": "Carrer Aribau 143, Barcelona",
+    "lat": 41.39233,
+    "lng": 2.15396,
+    "phone": "931643625",
+    "website": "https://solangecocktails.com/",
+    "instagram": null,
+    "hours": "19:00–02:30"
+  },
+  {
+    "name": "Tandem Cocktail Bar",
+    "address": "Carrer d'Aribau 86, Barcelona",
+    "lat": 41.38862,
+    "lng": 2.15954,
+    "phone": "934514330",
+    "website": null,
+    "instagram": null,
+    "hours": "12:30–03:00"
+  },
+  {
+    "name": "The Alchemix",
+    "address": "Carrer de València 212, Barcelona",
+    "lat": 41.39199,
+    "lng": 2.15997,
+    "phone": "938337678",
+    "website": "https://thealchemix.com/",
+    "instagram": "https://www.instagram.com/thealchemix/",
+    "hours": "19:00–01:30"
+  },
+  {
+    "name": "The George Payne",
+    "address": "Plaça d'Urquinaona 5, Barcelona",
+    "lat": 41.38976,
+    "lng": 2.17214,
+    "phone": "934815294",
+    "website": "https://www.thegeorgepayne.com/",
+    "instagram": null,
+    "hours": "13:00–03:00"
+  },
+  {
+    "name": "The Mint Bar",
+    "address": "Passeig d’Isabel II 4, Barcelona",
+    "lat": 41.38078,
+    "lng": 2.18326,
+    "phone": "647737707",
+    "website": "https://www.mintloungebar.com/",
+    "instagram": "https://www.instagram.com/mintbarbcn/",
+    "hours": "19:30–03:00"
+  },
+  {
+    "name": "Verne Barcelona",
+    "address": "Carrer d'Aribau 150, Barcelona",
+    "lat": 41.39361,
+    "lng": 2.15445,
+    "phone": "613012610",
+    "website": "https://www.vernebarcelona.com/bn-cocktail-road/",
+    "instagram": "https://www.instagram.com/vernebarcelona/",
+    "hours": "13:00–03:00"
+  },
+  {
+    "name": "Xixbar",
+    "address": "Carrer de Rocafort 19, Barcelona",
+    "lat": 41.37689,
+    "lng": 2.15651,
+    "phone": "678278133",
+    "website": "https://xixbar.net/",
+    "instagram": null,
+    "hours": "17:00–03:00"
+  },
+  {
+    "name": "Sips",
+    "address": "Carrer de Muntaner 108, Barcelona",
+    "lat": 41.39192,
+    "lng": 2.15580,
+    "phone": "619641402",
+    "website": "https://sips.barcelona/",
+    "instagram": null,
+    "hours": "18:30–02:00"
+  },
+  {
+    "name": "Two Schmucks",
+    "address": "Carrer de Joaquín Costa 52, Barcelona",
+    "lat": 41.38365,
+    "lng": 2.16588,
+    "phone": "934764777",
+    "website": "https://twoschmucks.eatbu.com/?lang=es",
+    "instagram": "https://www.instagram.com/two.schmucks/",
+    "hours": "18:00–03:00"
+  },
+  {
+    "name": "Elvira Café",
+    "address": "Consell de Cent 275, Barcelona",
+    "lat": 41.38786,
+    "lng": 2.16087,
+    "phone": "679115105",
+    "website": "https://elviracafebcn.com/",
+    "instagram": "null",
+    "hours": "17:00–03:00"
   },
   {
     "name": "Mr White Cocktail Bar",
-    "address": "Carrer de Muntaner 100",
-    "lat": 41.387320,
-    "lng": 2.158530
+    "address": "Manso 22, Barcelona",
+    "lat": 41.37643,
+    "lng": 2.16030,
+    "phone": "656612429",
+    "website": "https://mrwhitecocktailbar.com/",
+    "instagram": "null",
+    "hours": "19:00–03:00"
   },
   {
-    "name": "Zahara Cocktail Club",
-    "address": "Carrer de la Diputació 77",
-    "lat": 41.385940,
-    "lng": 2.158600
-  } 
-]
+    "name": "The Original Old Fashioned - Cocktail House",
+    "address": "Santa Teresa 1, Barcelona",
+    "lat": 41.39816,
+    "lng": 2.15969,
+    "phone": "690629932",
+    "website": "https://www.theoriginaloldfashioned.com/es",
+    "instagram": "null",
+    "hours": "17:00–21:30"
+  },
+  {
+    "name": "Bloody Mary Cocktail Bar",
+    "address": "Ferrer de Blanes 3, Barcelona",
+    "lat": 41.39843,
+    "lng": 2.15911,
+    "phone": "934613985",
+    "website": "https://bloodymarybcn.es/",
+    "instagram": "null",
+    "hours": "19:00–03:00"
+  },
+  {
+    "name": "Bobby Gin",
+    "address": "Carrer De Francisco Giner 47, Barcelona",
+    "lat": 41.39983,
+    "lng": 2.15821,
+    "phone": "933681892",
+    "website": "https://www.bobbygin.com/",
+    "instagram": "null",
+    "hours": "19:00–03:00"
+  },
+  {
+    "name": "Somnia (Espectáculos)",
+    "address": "Carrer De Montserrat 13, Barcelona",
+    "lat": 41.37724,
+    "lng": 2.17512,
+    "phone": "637078244",
+    "website": "https://somniabarcelona.es/",
+    "instagram": "null",
+    "hours": "17:00–03:00"
+   },
+   {
+    "name": "Kahala",
+    "address": "Av. Diagonal 537, Barcelona",
+    "lat": 41.39070,
+    "lng": 2.13813,
+    "phone": "934309026",
+    "website": "https://kahalabarcelona.com/",
+    "instagram": "null",
+    "hours": "18:30–03:00"
+   },
+   {
+    "name": "Torre Rosa",
+    "address": "Francesc Tàrrega 22, Barcelona",
+    "lat": 41.42281,
+    "lng": 2.18052,
+    "phone": "933408854",
+    "website": "https://www.torrerosa.com/",
+    "instagram": "null",
+    "hours": "18:00–03:00"
+   },
+   {
+    "name": "Club 61",
+    "address": "Trafalgar 61, Barcelona",
+    "lat": 41.39119,
+    "lng": 2.17948,
+    "phone": "936258200",
+    "website": "https://www.bancodeboquerones.com/restaurante/club-61/",
+    "instagram": "null",
+    "hours": "19:00–02:00"
+   },
+   {
+    "name": "Kahiki",
+    "address": "Gran Via de les Corts Catalanes 581, Barcelona",
+    "lat": 41.38560,
+    "lng": 2.16246,
+    "phone": "938488177",
+    "website": "https://kahiki.es/",
+    "instagram": "null",
+    "hours": "18:30–03:00"
+   },
+   {
+   "name": "Déjà Vu",
+    "address": "Calàbria 55, Barcelona",
+    "lat": 41.37754,
+    "lng": 2.15797,
+    "phone": "631625994",
+    "website": "null",
+    "instagram": "null",
+    "hours": "18:00–03:00"
+   },
+   {
+   "name": "Bonavida",
+    "address": "Casp 22, Barcelona",
+    "lat": 41.38934,
+    "lng": 2.17090,
+    "phone": "605557323",
+    "website": "https://bonavidabarcelona.com/",
+    "instagram": "null",
+    "hours": "16:00–02:00"
+    },
+   {
+   "name": "Quatre Coctelería",
+    "address": "Carrer de Lincoln 3, Barcelona",
+    "lat": 41.40020,
+    "lng": 2.15045,
+    "phone": "645320677",
+    "website": "https://quatrecocteleria.com/",
+    "instagram": "null",
+    "hours": "20:00–03:00"
+    },
+   {
+   "name": "Neverland",
+    "address": "Carrer del dos de Maig 277, Barcelona",
+    "lat": 41.40910,
+    "lng": 2.17937,
+    "phone": "910780676",
+    "website": "null",
+    "instagram": "null",
+    "hours": "19:00–03:00"
+    },
+   {
+   "name": "Never",
+    "address": "Carrer de la cera 17, Barcelona",
+    "lat": 41.37912,
+    "lng": 2.16644,
+    "phone": "932224696",
+    "website": "null",
+    "instagram": "null",
+    "hours": "18:00–03:00"
+    },
+   {
+   "name": "Dux Gin & Cocktail Bar",
+    "address": "Carrer dels Vigatans 13, Barcelona",
+    "lat": 41.38449,
+    "lng": 2.18008,
+    "phone": "null",
+    "website": "https://duxborne.com/",
+    "instagram": "null",
+    "hours": "17:00-02:30"
+    },
+   {
+   "name": "La Llibreria Cocktails",
+    "address": "Doctor Ibánez 24, Barcelona",
+    "lat": 41.38673,
+    "lng": 2.13275,
+    "phone": "938072697",
+    "website": "https://www.lallibreria.eu/",
+    "instagram": "null",
+    "hours": "19:00-02:00"
+    },
+   {
+   "name": "Caribbean Club",
+    "address": "Carrer de les Sitges 5, Barcelona",
+    "lat": 41.38460,
+    "lng": 2.16943,
+    "phone": "933022182",
+    "website": "https://arrelsbarcelona.com/pages/caribbean-club",
+    "instagram": "https://www.instagram.com/arrels_barcelona/#",
+    "hours": "17:00-02:00"
+    },
+   {
+   "name": "Vesou by Collage",
+    "address": "Mallorca 184, Barcelona",
+    "lat": 41.38949,
+    "lng": 2.15688,
+    "phone": "null",
+    "website": "https://www.vesoubarcelona.com/",
+    "instagram": "https://www.instagram.com/vesoubcn/#",
+    "hours": "19:00-02:30"
+    },
+   {
+   "name": "Sway Soul Lounge & Cocktail Bar",
+    "address": "Av. Diagonal 353, Barcelona",
+    "lat": 41.39776,
+    "lng": 2.16483,
+    "phone": "645275289",
+    "website": "https://www.swaysoul.com/",
+    "instagram": "https://www.instagram.com/swaysoul_/?hl=es",
+    "hours": "19:00-02:00"
+    },
+   {
+   "name": "Monk (falso super)",
+    "address": "Carrer dels Abaixadors 10, Barcelona",
+    "lat": 41.38325,
+    "lng": 2.18128,
+    "phone": "null",
+    "website": "https://monkbarcelona.com/",
+    "instagram": "null",
+    "hours": "17:00-03:00"
+    },
+   {
+   "name": "Aloha Tiki Bar",
+    "address": "Provença 159, Barcelona",
+    "lat": 41.38999,
+    "lng": 2.15462,
+    "phone": "647357395",
+    "website": "https://alohapolinesianbar.com/",
+    "instagram": "https://www.instagram.com/alohapolinesianbarcelona/?hl=es",
+    "hours": "19:00-03:00"
+    },
+   {
+   "name": "Tirsa BCN",
+    "address": "Mallorca 25, Barcelona",
+    "lat": 41.38286,
+    "lng": 2.14741,
+    "phone": "931726973",
+    "website": "null",
+    "instagram": "null",
+    "hours": "18:00-02:30"
+    },
+   {
+   "name": "Eleven BCN",
+    "address": "Rambla Catalunya 26, Barcelona",
+    "lat": 41.38950,
+    "lng": 2.16643,
+    "phone": "933010000",
+    "website": "https://www.elevenbcn-rooftopbar.com/es/",
+    "instagram": "https://www.instagram.com/eleven_barcelona/?hl=es",
+    "hours": "16:00-01:00"
+    },
+   {
+   "name": "Metric Barcelona",
+    "address": "Av. Diagonal 505, Barcelona",
+    "lat": 41.39170,
+    "lng": 2.14169,
+    "phone": "934193191",
+    "website": "https://metric-market.com/es",
+    "instagram": "https://www.instagram.com/metricmarket/#",
+    "hours": "13:00-03:00"
+    },
+   {
+   "name": "Plata Cocktail Bar",
+    "address": "Consell de Cent 233, Barcelona",
+    "lat": 41.38608,
+    "lng": 2.15858,
+    "phone": "934524636",
+    "website": "https://www.platabar.com/",
+    "instagram": "null",
+    "hours": "21:00-02:30"
+    },
+   {
+   "name": "Elephanta Ginbar Coctelería",
+    "address": "Torrent d'En Vidalet 37, Barcelona",
+    "lat": 41.40482,
+    "lng": 2.15856,
+    "phone": "932376906",
+    "website": "https://elephanta.cat/es/",
+    "instagram": "https://www.instagram.com/ElephantaGins/",
+    "hours": "18:00-03:00"
+    },
+   {
+   "name": "Elephanta Ginbar Coctelería",
+    "address": "Torrent d'En Vidalet 37, Barcelona",
+    "lat": 41.40482,
+    "lng": 2.15856,
+    "phone": "932376906",
+    "website": "https://elephanta.cat/es/",
+    "instagram": "https://www.instagram.com/ElephantaGins/",
+    "hours": "18:00-03:00"
+    },
+   {
+   "name": "Cobbler Cocktail Bar",
+    "address": "Casanova 91, Barcelona",
+    "lat": 41.38694,
+    "lng": 2.15673,
+    "phone": "null",
+    "website": "null",
+    "instagram": "https://www.instagram.com/cobbler.cocktails/",
+    "hours": "17:00-03:00"
+    },
+   {
+    "name": "Marlowe Bar",
+    "address": "Carrer del Rec 24, Barcelona",
+    "lat": 41.38551,
+    "lng": 2.18255,
+    "phone": "659867712",
+    "website": "https://marlowe.bar/",
+    "instagram": "https://www.instagram.com/marlowe_bar/?hl=es",
+    "hours": "19:00-03:00"
+    },
+   {
+    "name": "Kafuné",
+    "address": "Lepant 241, Barcelona",
+    "lat": 41.40337,
+    "lng": 2.17810,
+    "phone": "911677892",
+    "website": "null",
+    "instagram": "null",
+    "hours": "17:00-02:30"
+    },
+   {
+    "name": "14 De La Rosa",
+    "address": "Martinez de la Rosa 14, Barcelona",
+    "lat": 41.39953,
+    "lng": 2.15974,
+    "phone": "null",
+    "website": "https://www.14delarosa.com/",
+    "instagram": "https://www.instagram.com/14delarosa/",
+    "hours": "18:00-02:30"
+    },
+   {
+    "name": "Neo Caja Negra Cocktails",
+    "address": "Torrent de l'Olla 121b, Barcelona",
+    "lat": 41.40290,
+    "lng": 2.15645,
+    "phone": "665875424",
+    "website": "https://neocajanegra.com/cocktails/",
+    "instagram": "https://www.instagram.com/neocajanegra/",
+    "hours": "19:30-24:00"
+    },
+   {
+    "name": "Sira Cocktail & Shisha Bar",
+    "address": "Passatge de Josep Llovera 11, Barcelona",
+    "lat": 41.39624,
+    "lng": 2.14785,
+    "phone": "935389827",
+    "website": "https://sirabcn.com/",
+    "instagram": "https://www.instagram.com/sira.bcn/",
+    "hours": "17:00-03:00"
+    },
+   {
+    "name": "Punch Room",
+    "address": "Av. Francesc Cambó 14, Barcelona",
+    "lat": 41.38605,
+    "lng": 2.17782,
+    "phone": "936263330",
+    "website": "https://www.editionhotels.com/es/barcelona/restaurants-and-bars/punch-room/",
+    "instagram": "null",
+    "hours": "19:00-02:30"
+    },
+   {
+    "name": "Tini",
+    "address": "Enric Granados 41, Barcelona",
+    "lat": 41.39025,
+    "lng": 2.15916,
+    "phone": "624305532",
+    "website": "null",
+    "instagram": "https://www.instagram.com/tini.cocktails/",
+    "hours": "19:00-03:00"
+    },
+   {
+    "name": "Les Gens Que J'aime",
+    "address": "València 286, Barcelona",
+    "lat": 41.39371,
+    "lng": 2.16510,
+    "phone": "932156879",
+    "website": "https://www.lesgensquejaime.com/",
+    "instagram": "null",
+    "hours": "18:00-02:30"
+    },
+   {
+    "name": "La Rose 432 Cocktail & Sisha Bar",
+    "address": "Av. Diagonal 432, Barcelona",
+    "lat": 41.39749,
+    "lng": 2.16175,
+    "phone": "675132176",
+    "website": "null",
+    "instagram": "null",
+    "hours": "15:00-02:30"
+    },
+   {
+    "name": "First Cocktail Bar",
+    "address": "Carrer d'en Rauric 9, Barcelona",
+    "lat": 41.38117,
+    "lng": 2.17530,
+    "phone": "936314724",
+    "website": "null",
+    "instagram": "https://www.instagram.com/firstbarbcn/",
+    "hours": "20:30-03:00"
+    },
+   {
+    "name": "Madame George Lounge Bar",
+    "address": "Pujades 179, Barcelona",
+    "lat": 41.40229,
+    "lng": 2.20101,
+    "phone": "911672358",
+    "website": "https://www.madamegeorgebar.com/",
+    "instagram": "null",
+    "hours": "17:30-03:00"
+    },
+   {
+    "name": "MutiClub",
+    "address": "Córsega 318, Barcelona",
+    "lat": 41.39748,
+    "lng": 2.16074,
+    "phone": "933885866",
+    "website": "https://muticlub.com/",
+    "instagram": "null",
+    "hours": "19:00-03:00"
+    },
+   {
+    "name": "Coctelería Sucu Sucu",
+    "address": "París 150, Barcelona",
+    "lat": 41.39188,
+    "lng": 2.15084,
+    "phone": "619048890",
+    "website": "null",
+    "instagram": "null",
+    "hours": "20:30-03:00"
+    },
+   {
+    "name": "NUTS Indulgence Club",
+    "address": "Muntaner 147, Barcelona",
+    "lat": 41.39059,
+    "lng": 2.15405,
+    "phone": "691728237",
+    "website": "https://nutsindulgenceclub.com/",
+    "instagram": "null",
+    "hours": "20:00-02:30"
+    },
+   {
+    "name": "La Javanesa",
+    "address": "Joan Gamper 12, Barcelona",
+    "lat": 41.38722,
+    "lng": 2.13415,
+    "phone": "936314519",
+    "website": "null",
+    "instagram": "null",
+    "hours": "18:00-03:00"
+    },
+   {
+    "name": "Casa Astor",
+    "address": "Santa Caterina 6, Barcelona",
+    "lat": 41.37812,
+    "lng": 2.13743,
+    "phone": "936792112",
+    "website": "https://casaastor.cat/",
+    "instagram": "null",
+    "hours": "20:00-02:30"
+    },
+   {
+    "name": "Libertine Cocktail Bar & Restaurant at Casa Bonay",
+    "address": "Av. de les Corts Catalanes 700, Barcelona",
+    "lat": 41.43040,
+    "lng": 2.22328,
+    "phone": "682506340",
+    "website": "https://casabonay.com/es/restaurantes/libertine/",
+    "instagram": "null",
+    "hours": "08:00-24:00"
+    },
+   {
+    "name": "Bare Nostrum Bar Coctelería Gintonería",
+    "address": "Consell de Cent 384 , Barcelona",
+    "lat": 41.39566,
+    "lng": 2.17176,
+    "phone": "687955816",
+    "website": "null",
+    "instagram": "null",
+    "hours": "18:00-03:00"
+    },
+   {
+    "name": "Trabanqueta Bar",
+    "address": "Mallorca 329 , Barcelona",
+    "lat": 41.39842,
+    "lng": 2.16815,
+    "phone": "663456274",
+    "website": "null",
+    "instagram": "null",
+    "hours": "22:00-03:00"
+    },
+   {
+    "name": "Pesca Salada Cocktail Bar",
+    "address": "Carrer de la Cera 32 , Barcelona",
+    "lat": 41.37853,
+    "lng": 2.16543,
+    "phone": "null",
+    "website": "null",
+    "instagram": "null",
+    "hours": "18:00-02:00"
+    },
+   {
+    "name": "Bala Coctelería",
+    "address": "Enric Granados 34 , Barcelona",
+    "lat": 41.39064,
+    "lng": 2.15900,
+    "phone": "934546116",
+    "website": "null",
+    "instagram": "null",
+    "hours": "18:00-03:00"
+    },
+   {
+    "name": "Alquimia Barcelona",
+    "address": "Aribau 77 , Barcelona",
+    "lat": 41.38948,
+    "lng": 2.15779,
+    "phone": "613012610",
+    "website": "https://www.alquimiabcn.com/",
+    "instagram": "null",
+    "hours": "19:00-03:00"
+    },
+   {
+    "name": "SNOOKER Coctelería",
+    "address": "Roger de Llúria 42 , Barcelona",
+    "lat": 41.39241,
+    "lng": 2.17056,
+    "phone": "613046094",
+    "website": "https://snookerbarcelona.com/inicio/",
+    "instagram": "null",
+    "hours": "18:00-03:00"
+    },
+   {
+    "name": "Berimbau",
+    "address": "Pg. del Born 17 , Barcelona",
+    "lat": 41.38492,
+    "lng": 2.18255,
+    "phone": "669246928",
+    "website": "https://berimbau-barcelona.com/",
+    "instagram": "null",
+    "hours": "17:00-03:00"
+    },
+   {
+    "name": "Vitto Bar Musical",
+    "address": "Conell de Cent 420 , Barcelona",
+    "lat": 41.39744,
+    "lng": 2.17423,
+    "phone": "930298652",
+    "website": "https://www.vittobarmusical.com/",
+    "instagram": "null",
+    "hours": "21:30-05:00"
+    },
+   {
+    "name": "Guitar Legends Hall-Museu del Rock",
+    "address": "Portaferrissa 16 , Barcelona",
+    "lat": 41.38350,
+    "lng": 2.17288,
+    "phone": "934649827",
+    "website": "https://rockmuseumbarcelona.com/",
+    "instagram": "https://www.instagram.com/guitarlegendshall/",
+    "hours": "10:00-20:00"
+    }
+] 
